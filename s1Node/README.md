@@ -1,5 +1,4 @@
-## Bienvenido a la documentación de mi prueba tecnica para ADS
-
+# Ejercicio práctico Sección 1 - NodeJs
 ## Instalar paquetes necesarios
 
 `npm i`
